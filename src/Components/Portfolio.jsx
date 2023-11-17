@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/web-developer-working.jpeg";
+import image from "../images/web-developer-working.jpg";
 
 const imageAltText = "Web Developer working on a project";
 
