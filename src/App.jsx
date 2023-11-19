@@ -1,5 +1,7 @@
 import Education from "./Components/Education";
 
+<Education />
+
 /**
  * Application component
  *
