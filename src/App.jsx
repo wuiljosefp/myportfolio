@@ -1,3 +1,5 @@
+import Education from "./Components/Education";
+
 /**
  * Application component
  *
