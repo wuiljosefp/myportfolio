@@ -66,6 +66,14 @@ h2 {
   padding-top: 1rem;
 }
 
+h2.main-header {
+  font-size: 3rem;
+  font-weight: 400;
+  margin: 0;
+  padding-top: 1rem;
+  color: rgb (0, 127, 255);
+}
+
 h3 {
   font-weight: 400;
   font-size: 1.25rem;
