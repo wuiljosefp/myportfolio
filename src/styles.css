@@ -59,6 +59,23 @@ h1 {
   color: rgb(0, 127, 255);
 }
 
+img.socialIcon:hover {
+  animation: bounce 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bounce {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 h2 {
   font-size: 2rem;
   font-weight: 400;
